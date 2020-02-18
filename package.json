@@ -1,0 +1,19 @@
+{
+  "name": "httpnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "body": "^5.1.0",
+    "formidable": "^1.2.1"
+  }
+}
